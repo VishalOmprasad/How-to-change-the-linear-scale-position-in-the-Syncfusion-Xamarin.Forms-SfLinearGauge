@@ -1,6 +1,6 @@
 # How to change the linear scale position in the Syncfusion Xamarin.Forms SfLinearGauge
 
-This repository contains sample for how to change the linear scale position in the [Syncfusion Xamarin.Froms Linear Gauge](https://help.syncfusion.com/xamarin/linear-gauge/getting-started) control, as shown in below.
+This repository contains sample to change the linear scale position in the [Syncfusion Xamarin.Froms Linear Gauge](https://help.syncfusion.com/xamarin/linear-gauge/getting-started) control, as shown in below.
 
 ![](lineargaugeposition.png)
 
